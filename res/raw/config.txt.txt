@@ -1,0 +1,42 @@
+#Config
+width_card:233
+height_card:372
+gfx_pairs:4
+background_color:15,77,146
+
+#Text
+#===============================
+#menu
+title:Concentration
+info:Swipe --> for help!
+easy:easy
+medium:medium
+hard:hard
+start:start
+
+#credits/help
+credits:Credits
+art:Art
+help:help
+help_text:This game will test your memory. Match all blue cards with their red cards to win! Swipe --> to see which cards match.
+
+#card
+lets_start: Let's start!
+prevents:prevents
+does_not_prevent:does not prevent
+
+#credits
+you_took:you took
+turns:turns!
+replay:replay
+
+#Card Information
+#===============================
+0-a:wearing sandals
+0-b:worms in the dirt
+1-a:immunizations
+1-b:measles
+2-a:washing hands with soap
+2-b:germs on hands
+3-a:pooping in a latrine
+3-b:flies carrying poop to food
